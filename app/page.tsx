@@ -1,3 +1,4 @@
+import Hero from "@/components/Hero";
 import Image from "next/image";
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
       <div className="max-w-7xl w-full">
         <h1>Hello Portfolio</h1>
       </div>
+      <Hero />
     </main>
   );
 }
