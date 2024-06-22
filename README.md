@@ -1,4 +1,4 @@
-# 🖥️  Hi, I am Harhil Dalal
+# 🖥️ Hi, I am Harhil Dalal
 
 Welcome to my portfolio website! I am a passionate front-end web developer with 1 year of experience at Axelor Technologies. This repository showcases my journey, skills, and projects in web development.
 
@@ -19,17 +19,7 @@ I am a dedicated front-end developer who loves creating beautiful and functional
 
 ## 💼 Projects
 
-### 1. Project Name: [Responsive E-Commerce Website](https://your-ecommerce-project-link.com)
-
-- **Description:** A fully responsive e-commerce website built with HTML, CSS, and JavaScript.
-- **Features:**
-  - User authentication and authorization
-  - Product listing and filtering
-  - Shopping cart and checkout process
-  - Payment gateway integration
-- **Technologies:** HTML, CSS, JavaScript, React.js
-
-### 2. Project Name: [Portfolio Website](https://your-portfolio-link.com)
+### 1. Project Name: [Portfolio Website](https://bit.ly/4cpeiTG)
 
 - **Description:** A personal portfolio website to showcase my skills, projects, and experience.
 - **Features:**
@@ -39,7 +29,17 @@ I am a dedicated front-end developer who loves creating beautiful and functional
   - Contact form integration
 - **Technologies:** HTML, CSS, JavaScript, React.js
 
-### 3. Project Name: [Blog Platform](https://your-blog-platform-link.com)
+<!-- ### 2. Project Name: [Responsive E-Commerce Website](https://your-ecommerce-project-link.com)
+
+- **Description:** A fully responsive e-commerce website built with HTML, CSS, and JavaScript.
+- **Features:**
+  - User authentication and authorization
+  - Product listing and filtering
+  - Shopping cart and checkout process
+  - Payment gateway integration
+- **Technologies:** HTML, CSS, JavaScript, React.js -->
+
+<!-- ### 3. Project Name: [Blog Platform](https://your-blog-platform-link.com)
 
 - **Description:** A blogging platform where users can create, edit, and publish posts.
 - **Features:**
@@ -47,14 +47,14 @@ I am a dedicated front-end developer who loves creating beautiful and functional
   - Rich text editor for creating blog posts
   - Comments and likes functionality
   - Admin panel for managing content
-- **Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+- **Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB -->
 
 ## 📫 Contact
 
 Feel free to reach out to me via:
 
-- **Email:** [dalalharshil83@gmail.com](mailto:dalalharshil83@gmail.com)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dalalharshil83@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://bit.ly/3RCqSGQ)
 
 ## 🌐 Website
 
