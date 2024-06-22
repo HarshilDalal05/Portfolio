@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🖥️  Hi, I am Harhil Dalal
 
-## Getting Started
+Welcome to my portfolio website! I am a passionate front-end web developer with 1 year of experience at Axelor Technologies. This repository showcases my journey, skills, and projects in web development.
 
-First, run the development server:
+## 🚀 About Me
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+I am a dedicated front-end developer who loves creating beautiful and functional web applications. My experience at Axelor Technologies has honed my skills in various technologies and frameworks, and I am excited to share my work with you.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🏢 Experience
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Axelor Technologies (2023 - 2024)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Role:** Junior Front-End Developer
+- **Responsibilities:**
+  - Developed and maintained web applications using React.js and other modern JavaScript frameworks.
+  - Collaborated with cross-functional teams to deliver high-quality software solutions.
+  - Participated in code reviews and contributed to improving the development process.
+  - Engaged in agile methodologies to ensure timely and efficient project completion.
 
-## Learn More
+## 💼 Projects
 
-To learn more about Next.js, take a look at the following resources:
+### 1. Project Name: [Responsive E-Commerce Website](https://your-ecommerce-project-link.com)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Description:** A fully responsive e-commerce website built with HTML, CSS, and JavaScript.
+- **Features:**
+  - User authentication and authorization
+  - Product listing and filtering
+  - Shopping cart and checkout process
+  - Payment gateway integration
+- **Technologies:** HTML, CSS, JavaScript, React.js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 2. Project Name: [Portfolio Website](https://your-portfolio-link.com)
 
-## Deploy on Vercel
+- **Description:** A personal portfolio website to showcase my skills, projects, and experience.
+- **Features:**
+  - Interactive UI/UX design
+  - Responsive layout for mobile and desktop
+  - Smooth scrolling and navigation
+  - Contact form integration
+- **Technologies:** HTML, CSS, JavaScript, React.js
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 3. Project Name: [Blog Platform](https://your-blog-platform-link.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Description:** A blogging platform where users can create, edit, and publish posts.
+- **Features:**
+  - User authentication and profile management
+  - Rich text editor for creating blog posts
+  - Comments and likes functionality
+  - Admin panel for managing content
+- **Technologies:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+
+## 📫 Contact
+
+Feel free to reach out to me via:
+
+- **Email:** [dalalharshil83@gmail.com](mailto:dalalharshil83@gmail.com)
+- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-profile)
+
+## 🌐 Website
+
+Visit my portfolio website here: [Portfolio](https://harshild7.github.io/portfolio/)
+
+Thank you for visiting my portfolio. I look forward to connecting with you!
