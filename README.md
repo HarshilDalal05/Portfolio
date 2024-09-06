@@ -53,7 +53,7 @@ I am a dedicated front-end developer who loves creating beautiful and functional
 
 Feel free to reach out to me via:
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dalalharshil83@gmail.com)
+- [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dalalharshil83)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://bit.ly/3RCqSGQ)
 
 ## 🌐 Website
